@@ -3,3 +3,6 @@ pandas
 plotly
 xgboost
 gunicorn
+streamlit
+joblib
+scikit-learn
