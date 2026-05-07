@@ -1,0 +1,1001 @@
+Origin_Port,Destination_Port,Predicted_Lead_Time
+Singapore,Dubai,20.00383
+Rotterdam,Antwerp,29.232336
+Shanghai,Busan,1.0400052
+Rotterdam,Antwerp,6.0171356
+Rotterdam,Antwerp,1.4255902
+Rotterdam,Dubai,9.874638
+Antwerp,Rotterdam,0.70355797
+Singapore,Antwerp,48.691143
+Rotterdam,Hamburg,1.1179057
+Rotterdam,Shanghai,2.867902
+Hamburg,Rotterdam,7.2691336
+Antwerp,Busan,44.274837
+Antwerp,Dubai,8.43768
+Busan,Los Angeles,0.8337714
+Shanghai,Marseille,1.1000631
+Busan,Antwerp,14.32015
+Singapore,Busan,0.20947024
+Singapore,Antwerp,20.875977
+Rotterdam,Busan,6.067443
+Hamburg,Antwerp,14.884027
+Singapore,Los Angeles,53.15726
+Hamburg,Antwerp,7.9237404
+Los Angeles,Antwerp,14.537931
+Shanghai,Rotterdam,1.0820551
+Shanghai,Los Angeles,0.91372114
+Antwerp,Busan,1.2988094
+Dubai,Los Angeles,0.8275773
+Busan,Rotterdam,6.279603
+Busan,Hamburg,5.5909033
+Shanghai,Dubai,0.28219798
+Antwerp,Busan,16.598816
+Rotterdam,Singapore,93.298546
+Antwerp,Shanghai,0.6740649
+Shanghai,Los Angeles,33.81731
+Busan,Rotterdam,92.11797
+Shanghai,Rotterdam,19.569796
+Antwerp,Hamburg,5.991276
+Busan,Antwerp,5.7526674
+Rotterdam,Marseille,41.956226
+Los Angeles,Antwerp,12.941098
+Shanghai,Dubai,1.2053815
+Hamburg,Rotterdam,95.96341
+Antwerp,Singapore,0.32150623
+Antwerp,Marseille,44.884808
+Los Angeles,Busan,5.4434347
+Antwerp,Shanghai,54.638634
+Dubai,Marseille,29.94329
+Antwerp,Marseille,28.036572
+Busan,Shanghai,0.8025408
+Rotterdam,Dubai,63.84081
+Los Angeles,Busan,4.725217
+Shanghai,Antwerp,8.057813
+Hamburg,Dubai,22.638338
+Singapore,Busan,32.13413
+Shanghai,Busan,7.9426117
+Busan,Hamburg,0.5400856
+Busan,Singapore,12.167993
+Singapore,Rotterdam,1.5953695
+Antwerp,Marseille,16.89637
+Los Angeles,Singapore,6.8904552
+Dubai,Busan,72.09303
+Antwerp,Los Angeles,1.5319185
+Singapore,Busan,0.7847016
+Hamburg,Los Angeles,2.3611684
+Busan,Shanghai,3.6357152
+Shanghai,Antwerp,3.1941986
+Shanghai,Marseille,14.09375
+Busan,Shanghai,0.4556118
+Los Angeles,Rotterdam,27.85497
+Rotterdam,Busan,23.961157
+Shanghai,Marseille,0.8812243
+Rotterdam,Dubai,34.363285
+Los Angeles,Shanghai,87.22202
+Busan,Rotterdam,2.2447507
+Shanghai,Marseille,13.591984
+Los Angeles,Rotterdam,9.466812
+Rotterdam,Shanghai,29.702639
+Hamburg,Los Angeles,43.69845
+Hamburg,Busan,31.508707
+Los Angeles,Hamburg,0.69786763
+Rotterdam,Dubai,0.21788415
+Shanghai,Antwerp,9.856183
+Los Angeles,Singapore,8.926877
+Singapore,Marseille,7.4991984
+Singapore,Shanghai,0.51562995
+Busan,Rotterdam,0.2657577
+Busan,Antwerp,9.5796585
+Hamburg,Rotterdam,2.5379775
+Dubai,Busan,24.625395
+Dubai,Hamburg,0.17062421
+Shanghai,Marseille,1.2887971
+Shanghai,Marseille,0.5063761
+Rotterdam,Busan,14.5717125
+Los Angeles,Busan,45.039825
+Singapore,Shanghai,26.723124
+Dubai,Hamburg,11.193929
+Hamburg,Singapore,25.59596
+Shanghai,Marseille,15.6050005
+Singapore,Dubai,74.84496
+Singapore,Antwerp,1.721231
+Singapore,Marseille,18.474493
+Busan,Shanghai,27.12244
+Los Angeles,Busan,0.6312202
+Antwerp,Busan,7.741663
+Los Angeles,Hamburg,0.5737425
+Dubai,Busan,1.13926
+Dubai,Antwerp,0.6028253
+Shanghai,Hamburg,16.334827
+Busan,Marseille,2.7031946
+Singapore,Busan,0.50447065
+Busan,Antwerp,26.78555
+Rotterdam,Shanghai,13.853431
+Shanghai,Busan,1.2256173
+Busan,Los Angeles,19.14621
+Dubai,Singapore,0.82350177
+Hamburg,Rotterdam,135.17444
+Singapore,Shanghai,7.996141
+Shanghai,Marseille,0.5422591
+Shanghai,Rotterdam,15.647348
+Shanghai,Dubai,8.116559
+Busan,Los Angeles,36.779068
+Dubai,Shanghai,11.499533
+Hamburg,Shanghai,39.910904
+Dubai,Antwerp,32.136616
+Rotterdam,Dubai,0.4434317
+Busan,Antwerp,33.633656
+Busan,Shanghai,10.164356
+Rotterdam,Singapore,20.07354
+Rotterdam,Shanghai,4.6637955
+Busan,Singapore,10.573845
+Shanghai,Singapore,29.854204
+Singapore,Dubai,0.5690445
+Antwerp,Marseille,4.849145
+Shanghai,Marseille,26.474184
+Hamburg,Dubai,1.8651001
+Busan,Marseille,1.206575
+Antwerp,Singapore,1.3601362
+Antwerp,Shanghai,117.18995
+Rotterdam,Antwerp,31.270119
+Shanghai,Los Angeles,12.578949
+Singapore,Antwerp,182.70401
+Shanghai,Busan,32.20091
+Rotterdam,Busan,5.6943874
+Busan,Hamburg,77.79416
+Shanghai,Antwerp,2.5308988
+Shanghai,Marseille,7.3728805
+Antwerp,Busan,15.228242
+Los Angeles,Shanghai,5.432379
+Rotterdam,Singapore,5.4412704
+Los Angeles,Antwerp,1.0881022
+Hamburg,Antwerp,1.0793389
+Rotterdam,Shanghai,15.159192
+Los Angeles,Antwerp,0.4069168
+Shanghai,Marseille,9.52089
+Antwerp,Busan,9.398084
+Dubai,Marseille,0.6291596
+Singapore,Hamburg,2.5936582
+Shanghai,Singapore,3.5796728
+Singapore,Dubai,0.67183244
+Singapore,Antwerp,30.476067
+Rotterdam,Los Angeles,21.956944
+Rotterdam,Singapore,5.281891
+Antwerp,Hamburg,1.1436896
+Singapore,Hamburg,12.576941
+Los Angeles,Rotterdam,6.191116
+Rotterdam,Marseille,39.198185
+Rotterdam,Antwerp,2.995733
+Rotterdam,Hamburg,0.59827733
+Los Angeles,Dubai,8.057361
+Hamburg,Antwerp,7.1750097
+Antwerp,Shanghai,5.5231867
+Hamburg,Dubai,0.51480097
+Busan,Antwerp,4.54893
+Hamburg,Rotterdam,7.3741236
+Shanghai,Los Angeles,2.784873
+Dubai,Antwerp,3.76033
+Busan,Singapore,1.1257052
+Busan,Hamburg,7.870004
+Singapore,Los Angeles,1.1164167
+Rotterdam,Dubai,171.73149
+Shanghai,Hamburg,13.659594
+Hamburg,Marseille,1.433104
+Busan,Shanghai,10.541989
+Dubai,Shanghai,0.29702863
+Los Angeles,Shanghai,63.005066
+Shanghai,Dubai,2.3976054
+Dubai,Busan,9.848253
+Hamburg,Dubai,11.235227
+Shanghai,Hamburg,9.884939
+Singapore,Dubai,1.9412695
+Hamburg,Los Angeles,8.7057705
+Dubai,Rotterdam,13.471341
+Busan,Rotterdam,6.937279
+Busan,Antwerp,3.7626748
+Singapore,Hamburg,2.1754127
+Hamburg,Los Angeles,9.179694
+Busan,Rotterdam,0.6251181
+Dubai,Marseille,40.73089
+Antwerp,Busan,9.9155035
+Los Angeles,Shanghai,9.547837
+Shanghai,Antwerp,1.3829104
+Dubai,Marseille,8.018986
+Busan,Antwerp,5.9011827
+Rotterdam,Marseille,3.389117
+Busan,Rotterdam,11.466164
+Singapore,Dubai,9.397746
+Dubai,Antwerp,1.2151556
+Rotterdam,Los Angeles,0.65125185
+Busan,Shanghai,5.2482815
+Busan,Rotterdam,5.0720296
+Antwerp,Shanghai,5.4882565
+Antwerp,Singapore,24.180658
+Dubai,Hamburg,44.06342
+Singapore,Hamburg,0.7003892
+Dubai,Antwerp,0.928405
+Rotterdam,Marseille,0.5181902
+Shanghai,Hamburg,0.57844377
+Shanghai,Antwerp,23.98966
+Shanghai,Rotterdam,84.408775
+Shanghai,Dubai,1.1940104
+Shanghai,Antwerp,0.71947855
+Antwerp,Marseille,16.596394
+Hamburg,Busan,71.74673
+Singapore,Dubai,16.090683
+Busan,Shanghai,19.280941
+Antwerp,Busan,13.336931
+Busan,Rotterdam,0.78826106
+Singapore,Los Angeles,0.55016756
+Shanghai,Dubai,3.6150734
+Hamburg,Rotterdam,0.7084083
+Busan,Los Angeles,61.454395
+Singapore,Shanghai,22.844023
+Shanghai,Antwerp,11.455931
+Shanghai,Antwerp,105.90573
+Rotterdam,Busan,18.325384
+Antwerp,Rotterdam,0.6843907
+Busan,Singapore,17.797663
+Dubai,Antwerp,9.129895
+Dubai,Shanghai,1.0330137
+Dubai,Singapore,37.77033
+Hamburg,Antwerp,10.589253
+Los Angeles,Antwerp,0.8838997
+Rotterdam,Shanghai,16.697313
+Rotterdam,Marseille,8.980491
+Shanghai,Dubai,3.0019224
+Singapore,Rotterdam,8.928091
+Antwerp,Busan,84.55783
+Singapore,Shanghai,15.687475
+Shanghai,Los Angeles,5.8299236
+Singapore,Antwerp,9.533017
+Busan,Dubai,0.30420423
+Hamburg,Antwerp,13.774489
+Busan,Los Angeles,4.587369
+Antwerp,Los Angeles,0.10351552
+Los Angeles,Marseille,47.715824
+Singapore,Los Angeles,1.7695434
+Hamburg,Shanghai,8.575199
+Los Angeles,Singapore,6.1923404
+Los Angeles,Rotterdam,0.73420364
+Dubai,Rotterdam,0.76740336
+Hamburg,Rotterdam,151.33607
+Antwerp,Shanghai,2.517954
+Rotterdam,Hamburg,15.611977
+Singapore,Busan,15.8332205
+Dubai,Marseille,0.66543496
+Dubai,Singapore,15.858886
+Dubai,Shanghai,4.96298
+Busan,Dubai,49.074978
+Singapore,Rotterdam,78.733734
+Los Angeles,Rotterdam,8.298071
+Dubai,Rotterdam,0.37931824
+Antwerp,Dubai,74.67839
+Antwerp,Hamburg,0.81947625
+Singapore,Busan,22.024145
+Shanghai,Antwerp,35.86038
+Busan,Los Angeles,9.619116
+Hamburg,Antwerp,11.47553
+Dubai,Hamburg,47.610397
+Busan,Dubai,16.464094
+Singapore,Dubai,1.6213772
+Antwerp,Rotterdam,12.02378
+Los Angeles,Dubai,1.1962353
+Dubai,Busan,14.735106
+Singapore,Hamburg,2.5745065
+Busan,Singapore,16.77024
+Shanghai,Antwerp,9.335331
+Singapore,Hamburg,47.268845
+Los Angeles,Marseille,7.7313857
+Rotterdam,Shanghai,65.19902
+Rotterdam,Busan,44.660145
+Los Angeles,Antwerp,19.365953
+Antwerp,Hamburg,77.75758
+Rotterdam,Busan,0.40182626
+Singapore,Dubai,0.72561836
+Dubai,Antwerp,10.889155
+Los Angeles,Dubai,1.0061654
+Antwerp,Dubai,138.36523
+Dubai,Busan,14.986821
+Los Angeles,Rotterdam,1.2543902
+Hamburg,Busan,17.642021
+Dubai,Busan,14.726381
+Singapore,Hamburg,42.989952
+Singapore,Antwerp,1.4067802
+Busan,Dubai,47.508446
+Antwerp,Dubai,1.163109
+Rotterdam,Marseille,5.777699
+Antwerp,Los Angeles,0.6286536
+Los Angeles,Marseille,0.6240806
+Rotterdam,Shanghai,9.245158
+Antwerp,Dubai,29.759743
+Rotterdam,Dubai,0.4305915
+Singapore,Dubai,14.062377
+Hamburg,Marseille,8.450938
+Los Angeles,Singapore,11.598559
+Antwerp,Busan,13.486555
+Los Angeles,Singapore,15.203748
+Singapore,Dubai,13.9381075
+Busan,Antwerp,11.016949
+Los Angeles,Busan,7.6021757
+Rotterdam,Antwerp,3.8117814
+Antwerp,Singapore,5.9657364
+Shanghai,Marseille,29.01955
+Rotterdam,Busan,19.138634
+Rotterdam,Marseille,35.72892
+Rotterdam,Antwerp,5.2422595
+Rotterdam,Busan,10.702022
+Shanghai,Busan,8.373057
+Dubai,Rotterdam,3.275067
+Busan,Rotterdam,5.298251
+Los Angeles,Hamburg,1.124542
+Dubai,Antwerp,11.820949
+Rotterdam,Hamburg,24.044014
+Hamburg,Rotterdam,9.097335
+Singapore,Shanghai,28.902475
+Dubai,Singapore,218.85213
+Rotterdam,Singapore,4.7195745
+Busan,Shanghai,49.78719
+Busan,Dubai,9.33679
+Hamburg,Antwerp,9.564643
+Los Angeles,Shanghai,0.7590136
+Dubai,Rotterdam,114.96074
+Antwerp,Marseille,0.8371039
+Singapore,Dubai,84.04952
+Busan,Marseille,8.031726
+Rotterdam,Busan,205.1816
+Rotterdam,Dubai,0.3402314
+Shanghai,Singapore,0.56128734
+Los Angeles,Hamburg,23.834898
+Los Angeles,Rotterdam,1.0232537
+Los Angeles,Antwerp,12.083378
+Rotterdam,Shanghai,41.533073
+Los Angeles,Hamburg,74.7504
+Antwerp,Dubai,15.9559355
+Los Angeles,Singapore,0.60911393
+Hamburg,Busan,0.59137803
+Singapore,Marseille,10.621348
+Los Angeles,Dubai,42.89124
+Singapore,Dubai,47.727585
+Singapore,Antwerp,0.33087224
+Busan,Hamburg,13.079109
+Shanghai,Rotterdam,1.8865824
+Los Angeles,Singapore,0.37311554
+Los Angeles,Antwerp,137.965
+Shanghai,Hamburg,0.7881944
+Singapore,Busan,0.807922
+Rotterdam,Dubai,6.180377
+Busan,Rotterdam,8.167706
+Singapore,Antwerp,2.0035121
+Dubai,Marseille,13.697928
+Antwerp,Rotterdam,6.2139916
+Los Angeles,Busan,1.8480618
+Dubai,Shanghai,4.3097334
+Dubai,Hamburg,5.4754944
+Busan,Singapore,24.359343
+Hamburg,Los Angeles,1.8872552
+Los Angeles,Antwerp,4.661814
+Dubai,Los Angeles,12.091036
+Singapore,Antwerp,1.5353048
+Dubai,Los Angeles,18.663118
+Rotterdam,Dubai,21.783674
+Dubai,Shanghai,0.8590236
+Dubai,Los Angeles,35.06604
+Rotterdam,Marseille,1.7299979
+Hamburg,Shanghai,5.3782196
+Busan,Hamburg,0.98965174
+Los Angeles,Hamburg,23.056147
+Antwerp,Busan,14.672239
+Dubai,Rotterdam,9.676718
+Hamburg,Antwerp,65.23081
+Shanghai,Marseille,15.214814
+Singapore,Marseille,1.4223758
+Hamburg,Singapore,1.1083852
+Shanghai,Rotterdam,27.254517
+Dubai,Singapore,25.231209
+Hamburg,Busan,1.9112097
+Antwerp,Marseille,12.796071
+Hamburg,Busan,9.158977
+Dubai,Singapore,5.014517
+Antwerp,Busan,0.68349105
+Dubai,Hamburg,0.8025965
+Hamburg,Busan,24.138672
+Hamburg,Antwerp,10.964994
+Rotterdam,Busan,2.9891932
+Busan,Antwerp,38.865643
+Antwerp,Rotterdam,33.203865
+Rotterdam,Antwerp,4.928577
+Shanghai,Rotterdam,6.8352194
+Dubai,Shanghai,9.830039
+Singapore,Los Angeles,3.3139203
+Dubai,Hamburg,22.901562
+Busan,Hamburg,13.034602
+Busan,Rotterdam,33.619827
+Shanghai,Dubai,19.835861
+Rotterdam,Busan,51.78473
+Los Angeles,Rotterdam,41.37543
+Busan,Shanghai,23.606676
+Shanghai,Marseille,1.4457397
+Rotterdam,Dubai,22.897387
+Busan,Dubai,41.50033
+Rotterdam,Marseille,51.941277
+Dubai,Antwerp,8.065057
+Rotterdam,Singapore,82.14063
+Hamburg,Marseille,19.193096
+Busan,Los Angeles,33.010376
+Singapore,Los Angeles,7.9172707
+Rotterdam,Singapore,6.435349
+Busan,Marseille,8.475049
+Antwerp,Busan,6.125573
+Dubai,Shanghai,0.43658513
+Shanghai,Rotterdam,17.01561
+Los Angeles,Antwerp,2.5983965
+Busan,Marseille,4.030285
+Hamburg,Dubai,4.542653
+Singapore,Busan,1.3632796
+Hamburg,Singapore,63.382416
+Hamburg,Marseille,4.095609
+Shanghai,Los Angeles,75.82966
+Dubai,Rotterdam,1.1904722
+Busan,Shanghai,13.46103
+Dubai,Marseille,11.930743
+Rotterdam,Los Angeles,0.8805095
+Antwerp,Singapore,76.07063
+Rotterdam,Dubai,27.386297
+Hamburg,Rotterdam,2.9584844
+Antwerp,Marseille,9.7376995
+Hamburg,Rotterdam,1.9520283
+Hamburg,Busan,10.7572565
+Shanghai,Rotterdam,10.607266
+Singapore,Busan,1.9756975
+Dubai,Singapore,1.0699159
+Busan,Dubai,0.36351967
+Busan,Dubai,8.494782
+Dubai,Rotterdam,7.3063803
+Hamburg,Rotterdam,12.308195
+Antwerp,Los Angeles,13.302702
+Rotterdam,Busan,52.27929
+Hamburg,Dubai,10.022946
+Los Angeles,Busan,9.023384
+Antwerp,Busan,2.6613061
+Busan,Shanghai,14.074851
+Antwerp,Los Angeles,1.0869567
+Busan,Dubai,6.7903633
+Busan,Singapore,18.266352
+Rotterdam,Antwerp,0.6122982
+Los Angeles,Antwerp,127.91443
+Busan,Los Angeles,11.201458
+Dubai,Marseille,4.565098
+Rotterdam,Busan,27.60303
+Hamburg,Busan,39.131058
+Rotterdam,Hamburg,1.1672881
+Singapore,Shanghai,37.579456
+Shanghai,Marseille,1.0535077
+Los Angeles,Dubai,18.60985
+Dubai,Hamburg,36.842
+Dubai,Shanghai,83.058235
+Hamburg,Rotterdam,2.671
+Los Angeles,Marseille,9.998958
+Antwerp,Singapore,33.60375
+Shanghai,Busan,12.929837
+Shanghai,Antwerp,12.752429
+Rotterdam,Marseille,1.883538
+Dubai,Busan,9.343801
+Shanghai,Busan,4.022907
+Busan,Rotterdam,4.577079
+Busan,Singapore,204.29214
+Los Angeles,Rotterdam,22.771608
+Busan,Rotterdam,18.062992
+Antwerp,Rotterdam,6.7561274
+Singapore,Shanghai,6.86904
+Hamburg,Antwerp,41.303192
+Dubai,Antwerp,1.9148209
+Shanghai,Marseille,134.21106
+Singapore,Marseille,9.957767
+Singapore,Shanghai,66.28821
+Shanghai,Antwerp,34.771767
+Rotterdam,Marseille,0.7510784
+Hamburg,Shanghai,1.057127
+Busan,Shanghai,96.61215
+Singapore,Hamburg,3.9015374
+Rotterdam,Antwerp,34.851017
+Busan,Los Angeles,0.54164267
+Singapore,Rotterdam,94.39475
+Los Angeles,Singapore,9.649356
+Los Angeles,Shanghai,3.4063342
+Hamburg,Los Angeles,14.869108
+Shanghai,Marseille,17.627813
+Rotterdam,Hamburg,0.60708123
+Shanghai,Singapore,40.20465
+Dubai,Singapore,15.089586
+Busan,Shanghai,34.715
+Hamburg,Dubai,0.85907555
+Busan,Rotterdam,13.003671
+Hamburg,Singapore,5.8311048
+Rotterdam,Hamburg,1.4201775
+Hamburg,Singapore,24.86082
+Singapore,Marseille,8.245732
+Hamburg,Dubai,26.273039
+Busan,Dubai,17.433428
+Antwerp,Singapore,20.108023
+Singapore,Antwerp,13.701084
+Busan,Hamburg,1.312426
+Busan,Dubai,6.941873
+Shanghai,Antwerp,26.857973
+Antwerp,Marseille,1.2692577
+Rotterdam,Shanghai,1.9342747
+Singapore,Hamburg,42.40107
+Los Angeles,Busan,14.9771185
+Los Angeles,Hamburg,28.138947
+Singapore,Shanghai,6.070429
+Busan,Hamburg,3.8837435
+Shanghai,Busan,39.761765
+Busan,Hamburg,21.13607
+Shanghai,Dubai,38.95145
+Hamburg,Los Angeles,1.3998628
+Hamburg,Dubai,219.63547
+Singapore,Shanghai,14.872717
+Dubai,Shanghai,4.09961
+Hamburg,Marseille,0.97046715
+Antwerp,Rotterdam,0.63469756
+Dubai,Singapore,2.9826546
+Singapore,Dubai,6.686941
+Singapore,Los Angeles,4.409343
+Hamburg,Shanghai,17.88127
+Singapore,Busan,44.65232
+Busan,Los Angeles,5.062103
+Shanghai,Busan,68.650734
+Busan,Los Angeles,15.667647
+Hamburg,Los Angeles,10.402855
+Los Angeles,Marseille,0.5507361
+Singapore,Busan,1.7162154
+Rotterdam,Singapore,50.10574
+Busan,Marseille,1.4260873
+Singapore,Shanghai,3.3644865
+Busan,Marseille,114.48627
+Shanghai,Singapore,57.02593
+Rotterdam,Singapore,1.1366
+Busan,Rotterdam,9.310793
+Singapore,Marseille,7.3209143
+Shanghai,Singapore,0.42958492
+Rotterdam,Shanghai,35.356205
+Dubai,Los Angeles,19.239908
+Rotterdam,Dubai,131.82204
+Shanghai,Dubai,112.22337
+Dubai,Shanghai,0.6335742
+Rotterdam,Busan,60.24404
+Shanghai,Antwerp,1.614325
+Singapore,Marseille,9.6203575
+Shanghai,Rotterdam,1.6763743
+Hamburg,Singapore,40.913315
+Hamburg,Busan,1.3711852
+Los Angeles,Busan,32.86727
+Shanghai,Busan,73.661674
+Los Angeles,Singapore,40.34899
+Rotterdam,Shanghai,4.625696
+Shanghai,Antwerp,36.606792
+Rotterdam,Antwerp,3.403164
+Los Angeles,Dubai,2.0043585
+Busan,Hamburg,5.2063313
+Los Angeles,Shanghai,101.174675
+Los Angeles,Antwerp,14.221914
+Los Angeles,Hamburg,0.52116156
+Los Angeles,Singapore,2.1528716
+Singapore,Marseille,5.6593285
+Singapore,Shanghai,5.552838
+Dubai,Marseille,3.1082923
+Rotterdam,Singapore,1.6529782
+Hamburg,Antwerp,0.5735428
+Hamburg,Singapore,108.27551
+Rotterdam,Marseille,21.844479
+Shanghai,Dubai,1.677789
+Los Angeles,Busan,11.2962885
+Antwerp,Shanghai,1.1630983
+Los Angeles,Singapore,3.5819871
+Antwerp,Singapore,0.8134452
+Singapore,Rotterdam,2.012793
+Busan,Hamburg,13.671421
+Shanghai,Hamburg,113.23491
+Singapore,Antwerp,0.8350588
+Los Angeles,Shanghai,26.448301
+Antwerp,Shanghai,17.777422
+Singapore,Antwerp,0.6978682
+Hamburg,Shanghai,10.253793
+Busan,Singapore,5.644291
+Busan,Singapore,14.808568
+Antwerp,Dubai,3.851604
+Los Angeles,Shanghai,0.5673398
+Busan,Rotterdam,8.859677
+Singapore,Rotterdam,1.1907222
+Los Angeles,Singapore,30.44498
+Dubai,Antwerp,15.911441
+Dubai,Los Angeles,1.0778848
+Singapore,Hamburg,4.5504117
+Hamburg,Marseille,8.488919
+Rotterdam,Busan,7.927599
+Busan,Shanghai,0.8985562
+Hamburg,Singapore,10.661469
+Antwerp,Marseille,0.8766365
+Busan,Singapore,6.6983547
+Shanghai,Busan,1.6695905
+Rotterdam,Shanghai,10.430856
+Rotterdam,Busan,13.799597
+Shanghai,Hamburg,2.8399045
+Hamburg,Shanghai,15.408799
+Antwerp,Singapore,7.3985524
+Rotterdam,Dubai,8.092539
+Rotterdam,Hamburg,22.1781
+Dubai,Hamburg,89.26635
+Busan,Marseille,5.847492
+Los Angeles,Rotterdam,12.580223
+Busan,Los Angeles,1.4296544
+Antwerp,Shanghai,0.65624994
+Antwerp,Dubai,10.135037
+Rotterdam,Hamburg,26.526295
+Dubai,Marseille,5.2425413
+Busan,Singapore,7.828029
+Hamburg,Rotterdam,26.997635
+Los Angeles,Marseille,12.164592
+Antwerp,Rotterdam,10.996644
+Shanghai,Busan,20.455482
+Shanghai,Singapore,0.4678748
+Los Angeles,Antwerp,3.7889981
+Los Angeles,Shanghai,0.7776927
+Busan,Marseille,66.13322
+Busan,Rotterdam,0.53815794
+Busan,Antwerp,55.84891
+Shanghai,Singapore,0.50317085
+Antwerp,Busan,2.0546005
+Los Angeles,Busan,10.0926285
+Busan,Shanghai,11.2292385
+Dubai,Busan,29.219276
+Shanghai,Antwerp,6.693975
+Antwerp,Dubai,1.7586901
+Rotterdam,Hamburg,0.792389
+Rotterdam,Marseille,12.8966255
+Dubai,Antwerp,23.101656
+Antwerp,Dubai,1.1617115
+Shanghai,Marseille,104.19426
+Singapore,Busan,93.803894
+Antwerp,Rotterdam,0.35780632
+Hamburg,Marseille,28.078192
+Dubai,Rotterdam,0.40212908
+Dubai,Los Angeles,13.314736
+Los Angeles,Antwerp,4.818375
+Rotterdam,Dubai,1.1924483
+Busan,Antwerp,4.4188356
+Antwerp,Marseille,20.247263
+Singapore,Busan,8.918513
+Rotterdam,Antwerp,8.480464
+Singapore,Marseille,14.366926
+Hamburg,Los Angeles,5.3839684
+Hamburg,Shanghai,0.48436546
+Los Angeles,Dubai,9.933523
+Antwerp,Los Angeles,0.953926
+Busan,Rotterdam,18.810892
+Shanghai,Hamburg,3.7998233
+Los Angeles,Antwerp,5.363586
+Rotterdam,Dubai,30.331274
+Singapore,Shanghai,51.90846
+Busan,Dubai,12.439915
+Rotterdam,Busan,148.4421
+Dubai,Busan,32.289204
+Shanghai,Dubai,4.873563
+Antwerp,Rotterdam,1.4457736
+Shanghai,Los Angeles,56.93988
+Rotterdam,Shanghai,12.303706
+Hamburg,Los Angeles,33.679703
+Singapore,Shanghai,12.311234
+Shanghai,Marseille,0.4831419
+Antwerp,Rotterdam,3.4251723
+Rotterdam,Antwerp,0.8492949
+Antwerp,Singapore,0.62784696
+Los Angeles,Busan,3.9459002
+Shanghai,Rotterdam,39.946312
+Shanghai,Dubai,12.076646
+Antwerp,Singapore,2.0665593
+Antwerp,Busan,13.510745
+Rotterdam,Marseille,4.5237956
+Singapore,Hamburg,20.63423
+Busan,Antwerp,6.9512477
+Antwerp,Rotterdam,7.803123
+Los Angeles,Dubai,0.35853368
+Antwerp,Marseille,29.554754
+Rotterdam,Busan,0.994287
+Rotterdam,Singapore,77.03763
+Busan,Hamburg,18.487759
+Busan,Rotterdam,205.88612
+Busan,Los Angeles,6.623786
+Shanghai,Rotterdam,7.2546782
+Busan,Marseille,23.290438
+Los Angeles,Antwerp,9.844816
+Dubai,Rotterdam,18.48649
+Busan,Dubai,17.318705
+Los Angeles,Rotterdam,5.0274315
+Singapore,Marseille,5.622395
+Singapore,Hamburg,7.9521317
+Dubai,Antwerp,21.005608
+Busan,Hamburg,14.534419
+Rotterdam,Hamburg,5.717482
+Shanghai,Busan,6.842904
+Rotterdam,Singapore,14.651694
+Los Angeles,Rotterdam,1.0511571
+Busan,Los Angeles,78.97756
+Shanghai,Rotterdam,3.026355
+Singapore,Hamburg,3.8681018
+Busan,Rotterdam,93.66345
+Shanghai,Los Angeles,5.3211823
+Antwerp,Shanghai,7.601137
+Singapore,Hamburg,12.399513
+Busan,Marseille,0.80095196
+Shanghai,Los Angeles,22.341953
+Singapore,Busan,0.47312754
+Busan,Shanghai,8.34652
+Shanghai,Los Angeles,1.1296254
+Hamburg,Singapore,9.7865925
+Shanghai,Busan,26.519703
+Shanghai,Hamburg,7.842666
+Dubai,Marseille,0.48828542
+Singapore,Busan,11.877635
+Busan,Dubai,0.80994684
+Dubai,Rotterdam,16.363352
+Busan,Shanghai,25.833254
+Antwerp,Hamburg,35.649883
+Los Angeles,Singapore,1.2824581
+Antwerp,Busan,24.824942
+Hamburg,Shanghai,5.3231297
+Rotterdam,Hamburg,6.329554
+Busan,Singapore,2.8906481
+Antwerp,Hamburg,14.037253
+Los Angeles,Shanghai,4.0750027
+Los Angeles,Marseille,7.7570214
+Dubai,Shanghai,0.55332935
+Hamburg,Los Angeles,226.88939
+Singapore,Dubai,33.339508
+Shanghai,Hamburg,8.157663
+Los Angeles,Shanghai,9.909698
+Hamburg,Marseille,1.0815941
+Shanghai,Singapore,73.69699
+Los Angeles,Hamburg,133.41586
+Antwerp,Hamburg,13.450048
+Hamburg,Shanghai,13.88053
+Los Angeles,Shanghai,7.5628533
+Rotterdam,Busan,7.8454466
+Busan,Marseille,11.730916
+Los Angeles,Shanghai,30.841557
+Los Angeles,Rotterdam,10.843305
+Los Angeles,Marseille,64.54322
+Busan,Rotterdam,0.5439817
+Busan,Singapore,20.052195
+Antwerp,Singapore,-0.21715057
+Hamburg,Busan,16.177391
+Antwerp,Los Angeles,8.320778
+Busan,Hamburg,63.739437
+Dubai,Shanghai,12.434716
+Los Angeles,Shanghai,77.80692
+Rotterdam,Singapore,7.8078094
+Antwerp,Rotterdam,22.143106
+Singapore,Hamburg,4.9668584
+Hamburg,Dubai,40.964897
+Antwerp,Busan,61.960953
+Hamburg,Dubai,13.995729
+Antwerp,Marseille,1.025611
+Singapore,Los Angeles,5.258585
+Shanghai,Antwerp,25.552277
+Singapore,Shanghai,11.634708
+Antwerp,Busan,8.3171015
+Shanghai,Los Angeles,21.782557
+Hamburg,Los Angeles,9.553517
+Shanghai,Antwerp,3.6270144
+Singapore,Antwerp,15.81502
+Los Angeles,Shanghai,12.325539
+Dubai,Rotterdam,15.984048
+Dubai,Rotterdam,11.562034
+Hamburg,Rotterdam,170.67142
+Singapore,Hamburg,3.706777
+Hamburg,Marseille,49.476353
+Hamburg,Marseille,9.158743
+Busan,Los Angeles,11.014847
+Antwerp,Busan,1.0116136
+Singapore,Rotterdam,14.828298
+Singapore,Dubai,38.45887
+Hamburg,Shanghai,2.537208
+Dubai,Hamburg,11.756592
+Busan,Dubai,26.927258
+Rotterdam,Dubai,14.559514
+Rotterdam,Dubai,6.980702
+Hamburg,Singapore,7.0650287
+Los Angeles,Busan,0.5935965
+Shanghai,Antwerp,0.8676205
+Los Angeles,Singapore,4.8981347
+Singapore,Rotterdam,1.0612707
+Los Angeles,Shanghai,6.4875784
+Dubai,Hamburg,1.4303639
+Dubai,Hamburg,-0.15873536
+Hamburg,Dubai,14.4937525
+Hamburg,Rotterdam,7.9770617
+Antwerp,Shanghai,18.201464
+Rotterdam,Los Angeles,4.0623455
+Singapore,Dubai,7.5029964
+Antwerp,Busan,5.823849
+Dubai,Rotterdam,5.002757
+Rotterdam,Singapore,0.5763836
+Shanghai,Rotterdam,1.6794461
+Rotterdam,Busan,36.43868
+Hamburg,Shanghai,0.61678714
+Antwerp,Rotterdam,0.9501775
+Los Angeles,Busan,16.457842
+Los Angeles,Shanghai,27.417652
+Hamburg,Marseille,32.865665
+Busan,Los Angeles,85.88591
+Busan,Singapore,8.598202
+Busan,Marseille,0.9776406
+Singapore,Los Angeles,4.549925
+Hamburg,Busan,30.389097
+Hamburg,Rotterdam,0.3791462
+Antwerp,Dubai,0.8465222
+Singapore,Rotterdam,10.835745
+Hamburg,Dubai,8.917545
+Shanghai,Busan,6.7965236
+Shanghai,Marseille,3.8628101
+Dubai,Busan,0.53221446
+Dubai,Rotterdam,8.500813
+Shanghai,Dubai,17.775162
+Antwerp,Rotterdam,5.0628285
+Antwerp,Rotterdam,1.0203704
+Rotterdam,Los Angeles,19.766716
+Singapore,Rotterdam,33.012093
+Rotterdam,Los Angeles,37.71791
+Singapore,Busan,16.264547
+Dubai,Hamburg,2.2024534
+Hamburg,Singapore,1.7415851
+Shanghai,Marseille,0.13807927
+Busan,Dubai,6.4650025
+Rotterdam,Shanghai,28.498081
+Singapore,Hamburg,1.3100224
+Hamburg,Shanghai,2.2170548
+Shanghai,Los Angeles,10.566265
+Los Angeles,Rotterdam,74.94137
+Rotterdam,Antwerp,20.497406
+Rotterdam,Hamburg,10.865559
+Singapore,Los Angeles,18.880953
+Antwerp,Dubai,3.4061568
+Hamburg,Rotterdam,43.458866
+Dubai,Busan,5.6046414
+Dubai,Singapore,0.43805647
+Los Angeles,Rotterdam,2.0526874
+Hamburg,Antwerp,8.1218815
+Busan,Shanghai,24.061718
+Hamburg,Marseille,5.5049253
+Shanghai,Dubai,4.1287036
+Hamburg,Singapore,16.558758
+Los Angeles,Singapore,6.952673
+Los Angeles,Shanghai,8.096676
+Singapore,Marseille,1.0210015
+Singapore,Dubai,72.756256
+Rotterdam,Los Angeles,4.9451885
+Antwerp,Los Angeles,38.469204
+Busan,Los Angeles,29.171326
+Dubai,Busan,43.758137
+Los Angeles,Marseille,13.12945
+Singapore,Busan,6.2806964
+Dubai,Hamburg,17.251286
+Singapore,Shanghai,11.576084
+Rotterdam,Busan,34.59319
+Dubai,Shanghai,1.5556508
+Busan,Hamburg,10.789988
+Singapore,Los Angeles,19.118805
+Hamburg,Rotterdam,43.7826
+Singapore,Dubai,10.041366
+Busan,Marseille,8.723817
+Los Angeles,Rotterdam,47.22811
+Los Angeles,Dubai,2.5174482
+Dubai,Los Angeles,1.4124814
+Singapore,Los Angeles,26.492224
+Hamburg,Antwerp,2.957433
+Rotterdam,Hamburg,6.471139
+Singapore,Los Angeles,181.36485
+Busan,Marseille,15.190606
+Rotterdam,Los Angeles,10.577309
+Rotterdam,Dubai,27.468733
+Rotterdam,Hamburg,11.330561
+Hamburg,Antwerp,17.049768
+Antwerp,Singapore,0.833225
+Hamburg,Dubai,12.879829
+Rotterdam,Antwerp,19.148106
+Shanghai,Los Angeles,3.867101
+Busan,Shanghai,5.9384685
+Antwerp,Marseille,5.9416246
+Singapore,Busan,2.2406356
+Los Angeles,Rotterdam,20.361189
+Los Angeles,Singapore,6.317285
+Hamburg,Dubai,15.701312
+Los Angeles,Marseille,1.2332243
+Antwerp,Busan,14.406395
+Singapore,Antwerp,9.636794
+Rotterdam,Los Angeles,1.3117244
+Busan,Rotterdam,2.3570669
+Busan,Los Angeles,9.804545
+Busan,Shanghai,9.053204
+Rotterdam,Dubai,15.637916
+Busan,Shanghai,1.1698736
+Hamburg,Antwerp,5.5805874
+Hamburg,Shanghai,0.9489579
+Singapore,Rotterdam,3.9847887
+Shanghai,Antwerp,7.3554535
+Busan,Shanghai,2.6970818
+Rotterdam,Busan,20.259216
+Busan,Antwerp,25.878363
+Hamburg,Busan,219.59521
+Busan,Los Angeles,6.3490477
+Hamburg,Shanghai,51.30932
+Los Angeles,Shanghai,3.9103208
+Rotterdam,Shanghai,3.0795429
+Hamburg,Antwerp,63.16336
+Shanghai,Singapore,11.963386
+Busan,Shanghai,16.684557
+Rotterdam,Los Angeles,52.726448
+Hamburg,Shanghai,8.225636
+Rotterdam,Shanghai,11.576902
+Singapore,Hamburg,23.166475
+Busan,Antwerp,4.5742617
+Singapore,Shanghai,22.5136
+Rotterdam,Antwerp,89.580215
+Singapore,Marseille,0.3933308
+Dubai,Los Angeles,2.6321328
+Busan,Singapore,87.02516
+Busan,Marseille,1.0044016
+Singapore,Shanghai,6.0248103
+Busan,Los Angeles,6.1788135
+Shanghai,Singapore,0.48524585
+Rotterdam,Busan,4.3431907
+Busan,Antwerp,1.2590106
+Antwerp,Shanghai,47.26804
+Shanghai,Antwerp,6.2137523
+Shanghai,Marseille,5.212939
+Dubai,Shanghai,4.038711
+Los Angeles,Antwerp,28.010124
+Dubai,Los Angeles,1.3641566
+Singapore,Dubai,22.478716
+Dubai,Marseille,3.2922828
+Busan,Marseille,20.638103
+Singapore,Dubai,8.087981
+Hamburg,Los Angeles,5.1529517
+Singapore,Hamburg,6.7363267
+Dubai,Singapore,11.816164
+Shanghai,Marseille,0.6623575
+Busan,Los Angeles,30.83998
+Dubai,Hamburg,2.8527467
+Los Angeles,Busan,4.415954
+Antwerp,Rotterdam,0.2741397
+Busan,Hamburg,2.2945454
+Shanghai,Busan,137.16093
+Antwerp,Los Angeles,1.4262637
+Busan,Hamburg,5.717103
+Rotterdam,Los Angeles,34.05869
+Rotterdam,Antwerp,37.18
+Hamburg,Antwerp,8.654747
+Shanghai,Busan,16.579227
+Shanghai,Hamburg,7.6237764
+Hamburg,Singapore,0.57455826
+Rotterdam,Busan,1.4205109
+Hamburg,Marseille,35.649445
+Hamburg,Rotterdam,0.607602
+Antwerp,Los Angeles,3.2298577
+Shanghai,Antwerp,166.60365
+Shanghai,Antwerp,33.81084
+Shanghai,Busan,20.92753
+Los Angeles,Antwerp,38.49251
+Dubai,Singapore,83.84173
+Rotterdam,Hamburg,1.5254985
+Shanghai,Rotterdam,1.0699171
+Los Angeles,Busan,3.5744433
+Los Angeles,Hamburg,0.70510805
+Shanghai,Dubai,1.5769948
+Dubai,Los Angeles,1.0963491
+Busan,Los Angeles,36.323277
+Rotterdam,Dubai,7.419937
+Rotterdam,Dubai,25.704561
+Busan,Hamburg,7.1617026
+Los Angeles,Dubai,2.9294755
+Hamburg,Busan,0.6264167
